@@ -4,7 +4,7 @@ Components
 - [X] Heading
 - [X] Box
 - [X] Button
-- [ ] TextInput
+- [X] TextInput
 - [ ] TextArea
 - [ ] Checkbox
 - [X] Avatar
