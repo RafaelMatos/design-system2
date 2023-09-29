@@ -13,6 +13,11 @@ export default {
     disabled: false,
   },
   argTypes: {
+    children: {
+      control: {
+        type: null,
+      },
+    },
     variant: {
       options: ['primary', 'secondary', 'tertiary'],
       control: {
