@@ -10,3 +10,4 @@ Components
 - [X] Avatar
 - [X] MultiStep
 - [X] ToolTip
+- [X] Toast

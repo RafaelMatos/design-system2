@@ -1,5 +1,11 @@
 # @rm-ignite-ui/react
 
+## 2.0.3
+
+### Patch Changes
+
+- Add new component Toast
+
 ## 2.0.2
 
 ### Patch Changes
